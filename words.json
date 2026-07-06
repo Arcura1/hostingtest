@@ -1,0 +1,262 @@
+[
+    {
+        "word":"pollution",
+        "meaning":"kirlilik",
+        "example":"Air pollution is a serious problem in many cities."
+    },
+    {
+        "word":"contaminate",
+        "meaning":"kirletmek",
+        "example":"Chemicals can contaminate drinking water."
+    },
+    {
+        "word":"contamination",
+        "meaning":"kirlenme",
+        "example":"The contamination of the river affected local wildlife."
+    },
+    {
+        "word":"emission",
+        "meaning":"salım",
+        "example":"The factory reduced its carbon emissions."
+    },
+    {
+        "word":"exhaust",
+        "meaning":"egzoz gazı",
+        "example":"Car exhaust contributes to air pollution."
+    },
+    {
+        "word":"greenhouse",
+        "meaning":"sera",
+        "example":"Greenhouse gases trap heat in the atmosphere."
+    },
+    {
+        "word":"carbon dioxide",
+        "meaning":"karbondioksit",
+        "example":"Carbon dioxide is one of the main greenhouse gases."
+    },
+    {
+        "word":"methane",
+        "meaning":"metan",
+        "example":"Methane has a stronger warming effect than carbon dioxide."
+    },
+    {
+        "word":"climate",
+        "meaning":"iklim",
+        "example":"Climate change affects weather patterns around the world."
+    },
+    {
+        "word":"global warming",
+        "meaning":"küresel ısınma",
+        "example":"Global warming causes glaciers to melt."
+    },
+    {
+        "word":"environment",
+        "meaning":"çevre",
+        "example":"We should protect the environment for future generations."
+    },
+    {
+        "word":"ecosystem",
+        "meaning":"ekosistem",
+        "example":"A healthy ecosystem supports many different species."
+    },
+    {
+        "word":"habitat",
+        "meaning":"yaşam alanı",
+        "example":"Deforestation destroys the habitats of many animals."
+    },
+    {
+        "word":"biodiversity",
+        "meaning":"biyoçeşitlilik",
+        "example":"Biodiversity is essential for a balanced ecosystem."
+    },
+    {
+        "word":"deforestation",
+        "meaning":"ormansızlaşma",
+        "example":"Deforestation increases the risk of flooding."
+    },
+    {
+        "word":"waste",
+        "meaning":"atık",
+        "example":"The city produces a large amount of waste every day."
+    },
+    {
+        "word":"landfill",
+        "meaning":"çöp depolama alanı",
+        "example":"Most household waste ends up in a landfill."
+    },
+    {
+        "word":"litter",
+        "meaning":"çöp atmak; yere atılmış çöp",
+        "example":"People should not litter in public parks."
+    },
+    {
+        "word":"recycle",
+        "meaning":"geri dönüştürmek",
+        "example":"We recycle paper, plastic, and glass at home."
+    },
+    {
+        "word":"recycling",
+        "meaning":"geri dönüşüm",
+        "example":"Recycling helps reduce waste."
+    },
+    {
+        "word":"reuse",
+        "meaning":"yeniden kullanmak",
+        "example":"You can reuse glass bottles instead of throwing them away."
+    },
+    {
+        "word":"reduce",
+        "meaning":"azaltmak",
+        "example":"We should reduce our use of single-use plastics."
+    },
+    {
+        "word":"plastic",
+        "meaning":"plastik",
+        "example":"Plastic waste often ends up in the ocean."
+    },
+    {
+        "word":"microplastic",
+        "meaning":"mikroplastik",
+        "example":"Scientists found microplastics in drinking water."
+    },
+    {
+        "word":"toxic",
+        "meaning":"zehirli",
+        "example":"The factory released toxic chemicals into the river."
+    },
+    {
+        "word":"hazardous",
+        "meaning":"tehlikeli",
+        "example":"Hazardous waste must be handled carefully."
+    },
+    {
+        "word":"chemical",
+        "meaning":"kimyasal",
+        "example":"Some chemicals are harmful to the environment."
+    },
+    {
+        "word":"oil spill",
+        "meaning":"petrol sızıntısı",
+        "example":"The oil spill killed thousands of marine animals."
+    },
+    {
+        "word":"sewage",
+        "meaning":"kanalizasyon atığı",
+        "example":"Untreated sewage polluted the lake."
+    },
+    {
+        "word":"smog",
+        "meaning":"smog",
+        "example":"Heavy smog covered the city for several days."
+    },
+    {
+        "word":"acid rain",
+        "meaning":"asit yağmuru",
+        "example":"Acid rain damages forests and lakes."
+    },
+    {
+        "word":"renewable",
+        "meaning":"yenilenebilir",
+        "example":"Solar power is a renewable energy source."
+    },
+    {
+        "word":"renewable energy",
+        "meaning":"yenilenebilir enerji",
+        "example":"Many countries invest in renewable energy."
+    },
+    {
+        "word":"solar energy",
+        "meaning":"güneş enerjisi",
+        "example":"Solar energy is becoming more affordable."
+    },
+    {
+        "word":"wind power",
+        "meaning":"rüzgar enerjisi",
+        "example":"Wind power produces electricity without pollution."
+    },
+    {
+        "word":"fossil fuel",
+        "meaning":"fosil yakıt",
+        "example":"Burning fossil fuels increases carbon emissions."
+    },
+    {
+        "word":"coal",
+        "meaning":"kömür",
+        "example":"Coal is one of the most polluting energy sources."
+    },
+    {
+        "word":"conservation",
+        "meaning":"koruma",
+        "example":"Wildlife conservation is important for endangered species."
+    },
+    {
+        "word":"sustainable",
+        "meaning":"sürdürülebilir",
+        "example":"The company adopted sustainable farming methods."
+    },
+    {
+        "word":"sustainability",
+        "meaning":"sürdürülebilirlik",
+        "example":"Sustainability should be a global priority."
+    },
+    {
+        "word":"protect",
+        "meaning":"korumak",
+        "example":"We must protect endangered animals."
+    },
+    {
+        "word":"preserve",
+        "meaning":"korumak",
+        "example":"muhafaza etmek,\"The government plans to preserve the natural forest.\""
+    },
+    {
+        "word":"endangered",
+        "meaning":"nesli tükenme tehlikesinde olan",
+        "example":"The tiger is an endangered species."
+    },
+    {
+        "word":"extinct",
+        "meaning":"nesli tükenmiş",
+        "example":"Many animals have become extinct because of human activities."
+    },
+    {
+        "word":"drought",
+        "meaning":"kuraklık",
+        "example":"The region suffered from a severe drought."
+    },
+    {
+        "word":"flood",
+        "meaning":"sel",
+        "example":"Heavy rain caused serious flooding."
+    },
+    {
+        "word":"wildfire",
+        "meaning":"orman yangını",
+        "example":"Wildfires destroyed hundreds of hectares of forest."
+    },
+    {
+        "word":"overpopulation",
+        "meaning":"aşırı nüfus",
+        "example":"Overpopulation puts pressure on natural resources."
+    },
+    {
+        "word":"resource",
+        "meaning":"kaynak",
+        "example":"Clean water is a valuable natural resource."
+    },
+    {
+        "word":"conserve",
+        "meaning":"tasarruf etmek; korumak",
+        "example":"We should conserve water whenever possible."
+    },
+    {
+        "word":"awareness",
+        "meaning":"farkındalık",
+        "example":"Environmental awareness has increased in recent years."
+    },
+    {
+        "word":"campaign",
+        "meaning":"kampanya",
+        "example":"The school organized a recycling campaign."
+    }
+]
