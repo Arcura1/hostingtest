@@ -258,5 +258,255 @@
         "word":"campaign",
         "meaning":"kampanya",
         "example":"The school organized a recycling campaign."
+    },
+    {
+        "word":"addiction",
+        "meaning":"bağımlılık",
+        "example":"Smartphone addiction can reduce productivity."
+    },
+    {
+        "word":"addicted",
+        "meaning":"bağımlı",
+        "example":"Many teenagers are addicted to social media."
+    },
+    {
+        "word":"substance",
+        "meaning":"madde",
+        "example":"Some substances can be harmful if they are abused."
+    },
+    {
+        "word":"abuse",
+        "meaning":"kötüye kullanmak; istismar etmek",
+        "example":"Drug abuse can seriously damage your health."
+    },
+    {
+        "word":"recover",
+        "meaning":"iyileşmek",
+        "example":"It took him several years to recover from addiction."
+    },
+    {
+        "word":"recovery",
+        "meaning":"iyileşme süreci",
+        "example":"Recovery requires patience and determination."
+    },
+    {
+        "word":"rehabilitation",
+        "meaning":"rehabilitasyon",
+        "example":"She entered a rehabilitation center last year."
+    },
+    {
+        "word":"withdrawal",
+        "meaning":"yoksunluk",
+        "example":"Withdrawal symptoms can be difficult to manage."
+    },
+    {
+        "word":"craving",
+        "meaning":"şiddetli istek",
+        "example":"He experienced strong cravings for cigarettes."
+    },
+    {
+        "word":"dependency",
+        "meaning":"bağımlılık",
+        "example":"Emotional dependency can affect relationships."
+    },
+    {
+        "word":"habit",
+        "meaning":"alışkanlık",
+        "example":"Reading every day is a healthy habit."
+    },
+    {
+        "word":"compulsion",
+        "meaning":"zorlayıcı dürtü",
+        "example":"He felt a compulsion to check his phone constantly."
+    },
+    {
+        "word":"temptation",
+        "meaning":"baştan çıkarma; cazibe",
+        "example":"She resisted the temptation to smoke again."
+    },
+    {
+        "word":"relapse",
+        "meaning":"nüksetmek; nüks",
+        "example":"Stress can sometimes cause a relapse."
+    },
+    {
+        "word":"cope",
+        "meaning":"başa çıkmak",
+        "example":"She learned how to cope with stress without smoking."
+    },
+    {
+        "word":"cope with",
+        "meaning":"başa çıkmak",
+        "example":"Exercise helps people cope with anxiety."
+    },
+    {
+        "word":"therapy",
+        "meaning":"terapi",
+        "example":"Therapy helped him overcome his addiction."
+    },
+    {
+        "word":"counseling",
+        "meaning":"psikolojik danışmanlık",
+        "example":"Counseling provides support during recovery."
+    },
+    {
+        "word":"support",
+        "meaning":"destek",
+        "example":"Family support plays an important role in recovery."
+    },
+    {
+        "word":"self-control",
+        "meaning":"öz denetim",
+        "example":"Self-control is essential for breaking bad habits."
+    },
+    {
+        "word":"discipline",
+        "meaning":"disiplin",
+        "example":"Discipline helps people achieve their goals."
+    },
+    {
+        "word":"mental health",
+        "meaning":"ruh sağlığı",
+        "example":"Mental health is as important as physical health."
+    },
+    {
+        "word":"anxiety",
+        "meaning":"kaygı",
+        "example":"Anxiety can sometimes lead to unhealthy behaviors."
+    },
+    {
+        "word":"depression",
+        "meaning":"depresyon",
+        "example":"Depression often requires professional treatment."
+    },
+    {
+        "word":"stress",
+        "meaning":"stres",
+        "example":"Stress can increase the risk of addiction."
+    },
+    {
+        "word":"trigger",
+        "meaning":"tetikleyici",
+        "example":"Certain situations can trigger old habits."
+    },
+    {
+        "word":"urge",
+        "meaning":"dürtü; istek",
+        "example":"He ignored the urge to gamble."
+    },
+    {
+        "word":"gambling",
+        "meaning":"kumar",
+        "example":"Gambling addiction can cause financial problems."
+    },
+    {
+        "word":"alcohol",
+        "meaning":"alkol",
+        "example":"Alcohol should be consumed responsibly."
+    },
+    {
+        "word":"nicotine",
+        "meaning":"nikotin",
+        "example":"Nicotine is highly addictive."
+    },
+    {
+        "word":"tobacco",
+        "meaning":"tütün",
+        "example":"Smoking tobacco increases the risk of disease."
+    },
+    {
+        "word":"cigarette",
+        "meaning":"sigara",
+        "example":"He decided to quit cigarettes."
+    },
+    {
+        "word":"quit",
+        "meaning":"bırakmak",
+        "example":"She finally quit smoking after ten years."
+    },
+    {
+        "word":"overcome",
+        "meaning":"üstesinden gelmek",
+        "example":"He overcame his addiction with determination."
+    },
+    {
+        "word":"motivation",
+        "meaning":"motivasyon",
+        "example":"Strong motivation is necessary for lasting change."
+    },
+    {
+        "word":"willpower",
+        "meaning":"irade",
+        "example":"Willpower helps people resist temptation."
+    },
+    {
+        "word":"reward system",
+        "meaning":"ödül sistemi",
+        "example":"Addictive substances affect the brain's reward system."
+    },
+    {
+        "word":"brain",
+        "meaning":"beyin",
+        "example":"Addiction changes how the brain functions."
+    },
+    {
+        "word":"behavior",
+        "meaning":"davranış",
+        "example":"Healthy behavior improves overall well-being."
+    },
+    {
+        "word":"lifestyle",
+        "meaning":"yaşam tarzı",
+        "example":"A healthy lifestyle reduces stress."
+    },
+    {
+        "word":"prevention",
+        "meaning":"önleme",
+        "example":"Education is important for addiction prevention."
+    },
+    {
+        "word":"awareness",
+        "meaning":"farkındalık",
+        "example":"Public awareness about addiction is increasing."
+    },
+    {
+        "word":"responsibility",
+        "meaning":"sorumluluk",
+        "example":"Everyone should take responsibility for their health."
+    },
+    {
+        "word":"encourage",
+        "meaning":"teşvik etmek",
+        "example":"Parents should encourage healthy habits."
+    },
+    {
+        "word":"influence",
+        "meaning":"etkilemek",
+        "example":"Friends can influence your decisions."
+    },
+    {
+        "word":"peer pressure",
+        "meaning":"akran baskısı",
+        "example":"Peer pressure sometimes leads to risky behavior."
+    },
+    {
+        "word":"isolation",
+        "meaning":"yalnızlaşma",
+        "example":"Isolation may worsen mental health problems."
+    },
+    {
+        "word":"balance",
+        "meaning":"denge",
+        "example":"Work-life balance is important for mental health."
+    },
+    {
+        "word":"healthy",
+        "meaning":"sağlıklı",
+        "example":"Regular exercise is part of a healthy lifestyle."
+    },
+    {
+        "word":"professional help",
+        "meaning":"profesyonel yardım",
+        "example":"Don't hesitate to seek professional help if needed."
     }
 ]
